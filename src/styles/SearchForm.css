@@ -1,0 +1,12 @@
+.search-form {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.search-form > button {
+    background-color:#ebe1e1;
+    font-family: sans-serif;
+    outline: none;
+    cursor: pointer;
+}

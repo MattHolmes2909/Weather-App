@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
 body {
-  background-color: #a79999;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans'
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #ebe1e1;
+}
+.weather-app {
+  height: 100vh;
+  padding: 1em;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: "Noto Sans", sans-serif;
+  margin: 0;
 }
