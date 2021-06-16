@@ -1,6 +1,6 @@
 # Weather App
 
-This project creates a web page showing the weather for the next 5 days - including max/min temperatures, humidity and wind speed/direction.
+This project creates a web page showing the weather in all UK cities for the next 5 days - including max/min temperatures, humidity and wind speed/direction.
 
 
 ## Getting Started with Create React App
