@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');
+@import url("normalize.css");
+
 body {
-  background-color: #ebe1e1;
+  background-color: grey;
 }
+
 .weather-app {
   height: 100vh;
   padding: 1em;

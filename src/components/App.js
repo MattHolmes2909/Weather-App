@@ -6,7 +6,7 @@ import getForecast from "../requests/getForecast";
 import "../styles/App.css";
 import SearchForm from "./SearchForm";
 import blueSky from "../images/Blue-Skies.jpeg";
-import cloudy from "../images/Cloudy.jpeg";
+import cloudy from "../images/cloudy.jpeg";
 import rainy from "../images/Rainy.jpeg";
 import sunny from "../images/Sun.jpeg";
 
