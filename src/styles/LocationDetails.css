@@ -1,5 +1,5 @@
 .location-details {
-    border-radius: 25px;
+    border-radius: 85px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -7,4 +7,5 @@
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.8);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.73;
 }

@@ -28,12 +28,12 @@ exports[`ForecastDetails renders correctly 1`] = `
     <div
       class="forecast-details__windspeed"
     >
-      wind.speed: 100mph
+      Wind Speed: 100mph
     </div>
     <div
       class="forecast-details__winddirection"
     >
-      Wind direction: NW
+      Wind Direction: NW
     </div>
   </div>
 </DocumentFragment>
