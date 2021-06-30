@@ -2,10 +2,26 @@
 
 This project creates a web page showing the weather for the next 5 days - including max/min temperatures, humidity and wind speed/direction.
 
+## This project utilises:
+* React
+* JSX
+* Props and Prop Validation
+* State and Stateful/Stateless components
+* React Hooks
+* Request/Response
+* Error Handling
 
-## Getting Started with Create React App
+## This project was built using:
+* HTML
+* CSS
+* Javascript
+* React
+* Node.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Testing Frameworks used:
+
+* Jest
+* React Testing Library
 
 ## Available Scripts
 

@@ -52,7 +52,7 @@ const App = () => {
   };
 
   return (
-    <div className="weather-app" style={{ background: `url(${background})` }}>
+    <div className="weather-app" style={{ backgroundImage: `url(${background})` }}>
       <LocationDetails city={location.city} country={location.country} errorMessage={errorMessage} />
       <SearchForm searchText={searchText} setSearchText={setSearchText} onSubmit={handleCitySearch} />
       {!errorMessage && <> {selectedForecast && <ForecastDetails forecast={selectedForecast} />}</>}
